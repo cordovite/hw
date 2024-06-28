@@ -203,7 +203,7 @@ public class Program
                     running = false;
                     break;
                 default:
-                    Console.WriteLine("Invalid choice, please try again.");
+                    Console.WriteLine("Invalid choice. Please try again.");
                     break;
             }
         }
